@@ -1,0 +1,16 @@
+body {
+  background-color: #d1e7dd;
+  font-family: Arial, sans-serif;
+}
+
+.report-card {
+  border: 1px solid #adb5bd;
+  border-radius: 12px;
+  padding: 25px;
+  background: #ffffff;
+  box-shadow: 0 0 15px rgba(0, 0, 0, 0.1);
+}
+
+.form-label {
+  font-weight: 600;
+}
